@@ -3,7 +3,6 @@
 [![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)](https://golang.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-gray)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Built With](https://img.shields.io/badge/Built%20With-Google%20Antigravity-4285F4)](https://labs.google/)
 
 **A High-Availability Network Daemon that automatically reroutes system traffic to a backup interface (Hotspot) when the primary connection (WiFi) degrades.**
 
