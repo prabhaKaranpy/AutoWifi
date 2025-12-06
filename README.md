@@ -16,7 +16,7 @@ During competitive programming contests (Codeforces, LeetCode), a stable interne
 ## 🚀 The Solution
 **NetFailover** acts as a Layer-3 Network Sentinel. It continuously monitors the *quality* (not just connectivity) of your primary interface. If latency spikes or packet loss is detected, it programmatically manipulates the OS Routing Table to switch the Default Gateway to your backup interface in sub-seconds.
 
-### ✨ New Features (v1.0)
+### ✨ New Features (v1.0.0)
 As seen in the latest release:
 
 * **🧙‍♂️ Smart Setup Wizard:** * **Auto-Discovery:** Automatically detects your active WiFi interface via OS syscalls.
