@@ -1,4 +1,4 @@
-# ⚡ NetFailover (The Contest Saver)
+# ⚡ AutoWifi
 
 [![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)](https://golang.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-gray)](https://github.com/)
@@ -45,4 +45,4 @@ The system follows a **Monitor-Decide-Act** architectural pattern:
 ## 💻 Installation & Usage
 
 ### Option 1: Download Binary
-Go to the [Releases](link-to-your-releases) page and download `autowifi.exe`.
+Go to the [Release](https://github.com/prabhaKaranpy/AutoWifi/releases/tag/v1.0.0) page and download `autowifi.exe`.
