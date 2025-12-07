@@ -6,7 +6,7 @@
 
 **A High-Availability Network Daemon that automatically reroutes system traffic to a backup interface (Hotspot) when the primary connection (WiFi) degrades.**
 
-Built to solve the "Codeforces/CodeChef Lag" problem, ensuring 99.9% uptime for competitive programming submissions.
+Built to solve the "Codeforces/CodeChef Lag" problem, ensuring 99.9% uptime for competitive programming and also for competitive gaming as well as possible.
 
 ---
 
@@ -14,9 +14,9 @@ Built to solve the "Codeforces/CodeChef Lag" problem, ensuring 99.9% uptime for 
 During competitive programming contests (Codeforces, LeetCode), a stable internet connection is critical. Standard OS behavior only switches networks if the WiFi **disconnects** completely. However, it fails to account for **Packet Loss**, **Jitter**, or **High Latency**, leaving the user stuck on a "zombie" connection that cannot load pages or submit code.
 
 ## 🚀 The Solution
-**NetFailover** acts as a Layer-3 Network Sentinel. It continuously monitors the *quality* (not just connectivity) of your primary interface. If latency spikes or packet loss is detected, it programmatically manipulates the OS Routing Table to switch the Default Gateway to your backup interface in sub-seconds.
+**AutoWifi** acts as a Layer-3 Network Sentinel. It continuously monitors the *quality* (not just connectivity) of your primary interface. If latency spikes or packet loss is detected, it programmatically manipulates the OS Routing Table to switch the Default Gateway to your backup interface in sub-seconds.
 
-### ✨ New Features (v1.0.0)
+### ✨ Features
 As seen in the latest release:
 
 * **🧙‍♂️ Smart Setup Wizard:** * **Auto-Discovery:** Automatically detects your active WiFi interface via OS syscalls.
