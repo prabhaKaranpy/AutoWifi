@@ -1,7 +1,0 @@
-{
-  "primary_interface": "WiFi",
-  "backup_interface": "Ethernet",
-  "ping_target": "8.8.8.8",
-  "latency_threshold_ms": 200,
-  "check_interval_sec": 5
-}
