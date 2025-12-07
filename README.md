@@ -45,5 +45,5 @@ The system follows a **Monitor-Decide-Act** architectural pattern:
 ## 💻 Installation & Usage
 
 ### Option 1: Download Binary
-Go to the [Release](https://github.com/prabhaKaranpy/AutoWifi/releases/) page and download `autowifi.exe`.
+Go to the [Releases](https://github.com/prabhaKaranpy/AutoWifi/releases/) page and download `autowifi.exe`.
 
